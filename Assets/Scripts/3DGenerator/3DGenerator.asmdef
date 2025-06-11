@@ -1,0 +1,16 @@
+{
+    "name": "3DGenerator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a0e89503d53b2487cad2449996169003"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
