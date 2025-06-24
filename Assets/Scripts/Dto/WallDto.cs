@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using MessagePack;
 
 namespace Dto
@@ -20,5 +21,8 @@ namespace Dto
 
         [Key(4)]
         public Vector2DDto OuterEnd { get; set; }
+
+        [Key(5)]
+        public List<DoorDto> Doors { get; set; }
     }
 }

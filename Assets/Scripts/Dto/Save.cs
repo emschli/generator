@@ -13,6 +13,9 @@ namespace Dto
         public float Thickness { get; set; }
 
         [Key(2)]
+        public float DoorWidth { get; set; }
+
+        [Key(3)]
         public List<WallDto> Walls { get; set; }
     }
 }
